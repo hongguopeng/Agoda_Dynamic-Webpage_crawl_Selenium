@@ -1,0 +1,364 @@
+,旅店名稱,旅客評分,旅客評鑑數目,旅店當天價格,行政區
+0,洛碁大飯店松山館 (Green World SongShan),8.6,2577.0,2129.0,南港區
+1,摩莎曼拉精品旅館 - 台北車站館 (Moshamanla-Main Station),8.3,15200.0,1007.0,中正區
+2,新驛旅店復興北路店 (Cityinn Hotel Plus Fuxing N.Rd. Branch),9.1,5779.0,1772.0,中山區
+3,富信大飯店 - 台北旗艦館 (Fushin Hotel-Taipei),8.5,2793.0,1875.0,汐止區
+4,台北君悅酒店 (Grand Hyatt Taipei),8.8,2518.0,3886.0,信義區
+5,和苑三井花園飯店 台北忠孝 (MGH Mitsui Garden Hotel Taipei Zhongxiao),9.0,196.0,2887.0,大安區
+6,蒲園飯店 (Golden Garden Hotel),8.7,986.0,1999.0,松山區
+7,F Hotel 台北蘆洲館 (F Hotel Luzhou Taipei),8.7,812.0,2150.0,蘆洲區
+8,台北天晴青年旅店 (Taipei Sunny Hostel),9.4,2148.0,1029.0,中正區
+9,趣淘漫旅 - 台北 (HOTEL CHAM CHAM - Taipei),9.0,11321.0,1627.0,板橋區
+10,豪景大酒店新館 (New Riverview Suites),8.1,2900.0,1824.0,萬華區
+11,洛碁大飯店忠孝館 (Green World ZhongXiao),8.7,5467.0,1685.0,大安區
+12,凱統大飯店 (Kdm Hotel),8.0,3681.0,1462.0,大安區
+13,台北晶華酒店 (Regent Taipei Hotel),8.9,3054.0,6102.0,中山區
+14,東龍大飯店 (East Dragon Hotel),7.8,2196.0,1289.0,萬華區
+15,帥客旅店 (Saual Keh Hotel),7.7,2975.0,1185.0,中正區
+16,洛碁大飯店南港館 (Green World NanGang),8.5,3898.0,2269.0,南港區
+17,阿樹國際旅店 (arTree Hotel),8.8,3095.0,2464.0,松山區
+18,台北天成大飯店 (Cosmos Hotel Taipei),8.3,7996.0,2755.0,中正區
+19,台北美侖大飯店 (Park Taipei Hotel),8.5,10193.0,1913.0,大安區
+20,函舍商務旅店 (Han She Business Hotel),7.5,1904.0,1655.0,萬華區
+21,台北花園大酒店 (Taipei Garden Hotel),8.2,4641.0,3115.0,中正區
+22,翰品酒店 新莊 (Chateau de Chine Xinzhuang),8.6,1731.0,2186.0,新莊區
+23,沃田旅店 (Mellow Fields Hotel),8.5,2797.0,2348.0,士林區
+24,捷絲旅 - 西門町館 (Just Sleep Hotel Ximending),8.5,6192.0,1984.0,萬華區
+25,台北萬豪酒店 (Taipei Marriott Hotel),8.6,626.0,5229.0,中山區
+26,成旅晶贊飯店 - 台北蘆洲  (Park City Hotel – Luzhou Taipei),8.8,5851.0,2597.0,蘆洲區
+27,天閣酒店 - 台北信義店 (Tango Hotel Taipei XinYi),8.3,3121.0,2408.0,信義區
+28,台北新板希爾頓酒店 (Hilton Taipei Sinban),8.9,1150.0,3240.0,板橋區
+29,美麗信花園酒店 (Miramar Garden Hotel),8.4,4042.0,3195.0,中山區
+30,台北福華大飯店 (The Howard Plaza Hotel Taipei),8.1,4299.0,2700.0,大安區
+31,台北凱達大飯店 (Caesar Metro Taipei),8.6,14633.0,1905.0,萬華區
+32,德立莊酒店 (Hotel Midtown Richardson),8.0,22035.0,2168.0,萬華區
+33,老爺會館台北林森 - 華山1914文化創意產業園區 (Royal Inn Taipei Linsen - Huashan 1914 Creative Park),8.4,2217.0,1724.0,中山區
+34,老爺會館台北南西 - 捷運中山站 (Royal Inn Taipei Nanxi - MRT Zhongshan Station),8.4,2871.0,1933.0,中山區
+35,凱旋酒店 (Just Palace),8.9,1777.0,2263.0,內湖區
+36,路境行旅 (Finders Hotel),8.7,8232.0,1729.0,中正區
+37,台北W酒店 (W Taipei),8.9,2324.0,7214.0,信義區
+38,Hotel PaPa Whale,8.3,14580.0,1673.0,萬華區
+39,睡台北時尚旅店 - 南雅夜市館 (Sleep Taipei Hotel - Nan Ya Market),7.7,1998.0,2178.0,板橋區
+40,台北西華飯店 (The Sherwood Taipei),8.7,4684.0,4019.0,松山區
+41,薆悅酒店野柳渡假館 (Inhouse Hotel Yehliu),8.3,1848.0,3924.0,萬里區
+42,怡品商旅 (Eastin-Taipei Hotel),8.7,5604.0,2456.0,大安區
+43,台北凱撒大飯店 (Caesar Park Hotel Taipei),8.1,15787.0,5401.0,中正區
+44,首都大飯店 (Capital Hotel),8.4,519.0,6671.0,中山區
+45,丰居旅店-忠孝館 (Via Hotel Zhongxiao),8.4,2188.0,1904.0,大安區
+46,柔美精品商旅 (Beauty Hotels Roumei Boutique),8.1,2783.0,1945.0,中山區
+47,尚印旅店 (Stay Inn),8.3,2452.0,1422.0,中山區
+48,喜瑞飯店 (Ambience Hotel),8.6,3790.0,2049.0,中山區
+49,凱旋酒店 (Just Palace),8.9,1777.0,2263.0,內湖區
+50,千彩格精品旅店 (Colors Infinity Inn),8.1,1303.0,1437.0,中山區
+51,台北清翼居旅店 (Morwing Hotel),8.2,1995.0,1270.0,板橋區
+52,丹迪旅店 大安森林公園店 (Dandy Hotel Daan Branch),8.8,4104.0,2293.0,大安區
+53,洛碁三貝茲 (Green World Triplebeds),8.7,2026.0,1818.0,松山區
+54,華山文旅 (Wallsun HOTEL),7.9,1819.0,2581.0,中正區
+55,璞漣商旅 - 台北車站店 (Hotel Puri Taipei Station Branch),8.1,2561.0,1788.0,中正區
+56,路境行旅 (Finders Hotel),8.7,8232.0,1729.0,中正區
+57,國聯大飯店 (United Hotel),8.1,8648.0,1536.0,大安區
+58,城市商旅 - 南西館 (City Suites - Nanxi),8.3,2289.0,1881.0,大同區
+59,新驛旅店西門捷運店 (Cityinn Hotel Plus Ximending Branch),8.7,5881.0,2390.0,萬華區
+60,台北蘆洲集賢商旅 (Hotel G7 Taipei),8.1,1065.0,1144.0,蘆洲區
+61,丰居旅店 - 雙連館  (Via Hotel Loft),8.5,4860.0,1838.0,中山區
+62,台北馥華商旅 - 敦北館 (Simple+ Hotel),8.6,4167.0,1558.0,松山區
+63,Hotel PaPa Whale,8.3,14580.0,1673.0,萬華區
+64,馥都飯店 (Grand Forward Hotel),8.8,2759.0,2944.0,板橋區
+65,睡台北時尚旅店 - 南雅夜市館 (Sleep Taipei Hotel - Nan Ya Market),7.7,1998.0,2178.0,板橋區
+66,旅樂序精品旅館二館 (Hotel Relax II),8.5,5076.0,2192.0,中正區
+67,台北王朝大酒店 (Sunworld Dynasty Hotel),7.8,5039.0,2802.0,松山區
+68,台北東旅 (Hotel East Taipei),8.7,2286.0,2246.0,松山區
+69,長榮桂冠酒店 (Evergreen Laurel Hotel),8.8,2226.0,3074.0,中山區
+70,米尼旅店 (miniinn),8.9,417.0,537.0,中正區
+71,台北有園飯店 (U Hotel Taipei),8.2,1561.0,2204.0,中山區
+72,台北城大飯店 (Taipei City Hotel),8.3,2855.0,2302.0,大同區
+73,台北美福大飯店 (Grand Mayfull Hotel Taipei),9.0,1114.0,6312.0,中山區
+74,六福萬怡酒店 (Courtyard Taipei),8.5,583.0,6424.0,南港區
+75,承億文旅淡水吹風 (Hotelday Plus Tamsui),8.0,4093.0,2751.0,淡水區
+76,天成文旅-華山町 (Hua Shan Din by Cosmos Creation - Huashan 1914 Creative Park),8.9,1932.0,2448.0,中正區
+77,台北西華飯店 (The Sherwood Taipei),8.7,4684.0,4019.0,松山區
+78,旅樂序精品旅館站前一館 (Hotel Relax),8.4,3037.0,1760.0,中正區
+79,美麗殿商旅-板橋館 (Merryday Hotel Banqiao Branch),8.0,4964.0,1402.0,板橋區
+80,城市商旅站前館 (City Suites - Main station),8.5,2636.0,1641.0,中正區
+81,林口亞昕福朋喜來登酒店 (Four Points by Sheraton Linkou),8.7,84.0,3600.0,林口區
+82,薆悅酒店野柳渡假館 (Inhouse Hotel Yehliu),8.3,1848.0,3924.0,萬里區
+83,丰居旅店北車館 (Via Hotel Taipei Station),8.9,3353.0,2206.0,中正區
+84,首都大飯店松山館 (Capital Hotel Songshan),8.1,4376.0,1925.0,松山區
+85,路徒行旅 (Roaders Hotel),8.9,5543.0,2030.0,萬華區
+86,美亞商旅 (Mayer Inn),8.4,2685.0,1461.0,中正區
+87,丰居旅店西門館 (Via Hotel Ximen),8.8,5762.0,2651.0,萬華區
+88,怡品商旅 (Eastin-Taipei Hotel),8.7,5604.0,2456.0,大安區
+89,台北凱撒大飯店 (Caesar Park Hotel Taipei),8.1,15787.0,5401.0,中正區
+90,首都大飯店 (Capital Hotel),8.4,519.0,6671.0,中山區
+91,台北東旅 (Hotel East Taipei),8.7,2286.0,2246.0,松山區
+92,長榮桂冠酒店 (Evergreen Laurel Hotel),8.8,2226.0,3074.0,中山區
+93,米尼旅店 (miniinn),8.9,417.0,537.0,中正區
+94,臺北摩莎精品旅店 (Taipei M Hotel - Main Station),8.2,6125.0,1082.0,中正區
+95,台北有園飯店 (U Hotel Taipei),8.2,1561.0,2204.0,中山區
+96,台北城大飯店 (Taipei City Hotel),8.3,2855.0,2302.0,大同區
+97,薆悅酒店 (inhouse Hotel),8.4,4647.0,2151.0,萬華區
+98,昇美精品旅店 (Beauty Hotels Taipei- Hotel Bchic),8.0,1589.0,1252.0,中山區
+99,六福萬怡酒店 (Courtyard Taipei),8.5,583.0,6424.0,南港區
+100,承億文旅淡水吹風 (Hotelday Plus Tamsui),8.0,4093.0,2751.0,淡水區
+101,西門讚 (Simonzen),5.8,10.0,1732.0,萬華區
+102,丹迪旅店天津店 (Dandy Hotel Tianjin),9.0,2104.0,1758.0,中山區
+103,圓山大飯店 (Grand Hotel),8.4,5543.0,,中山區
+104,旅樂序精品旅館站前一館 (Hotel Relax),8.4,3037.0,1760.0,中正區
+105,漁人碼頭休閒旅館 (The Fisher Hotel),8.1,1512.0,1812.0,淡水區
+106,新驛旅店台北車站三館 (CityInn Hotel Taipei Station Branch III),8.6,4191.0,1335.0,中正區
+107,美麗殿商旅-板橋館 (Merryday Hotel Banqiao Branch),8.0,4964.0,1402.0,板橋區
+108,城市商旅站前館 (City Suites - Main station),8.5,2636.0,1641.0,中正區
+109,林口亞昕福朋喜來登酒店 (Four Points by Sheraton Linkou),8.7,84.0,3600.0,林口區
+110,旅樂序精品旅館站前三館 (Hotel Relax III),8.5,2766.0,1843.0,中正區
+111,丰居旅店北車館 (Via Hotel Taipei Station),8.9,3353.0,2206.0,中正區
+112,久居棧旅店 (9ine Hotel),8.3,2114.0,1353.0,大同區
+113,傑仕堡商旅板橋館 (Jasper Hotel Banqiao Taipei),9.1,114.0,3698.0,板橋區
+114,長富時尚旅店 (Homeyhouse),8.5,2519.0,1652.0,中山區
+115,首都大飯店松山館 (Capital Hotel Songshan),8.1,4376.0,1925.0,松山區
+116,首府旅館 (Sofu Hotel),7.8,910.0,999.0,板橋區
+117,香奈爾精品汽車旅館-新莊館 (surreal motel),8.6,367.0,2211.0,新莊區
+118,路徒行旅 (Roaders Hotel),8.9,5543.0,2030.0,萬華區
+119,美亞商旅 (Mayer Inn),8.4,2685.0,1461.0,中正區
+120,尤利西斯旅店 (Ulysses Hotel),8.7,1134.0,1429.0,中正區
+121,新驛旅店台北車站二館 (CityInn Hotel Taipei Station Branch II),8.7,3089.0,1335.0,中正區
+122,大倉久和大飯店  (The Okura Prestige Taipei Hotel),9.0,3591.0,9116.0,中山區
+123,永安棧 (WESTGATE Hotel),8.6,6529.0,3178.0,萬華區
+124,北投熱海溫泉大飯店 (Atami Hotel Taipei Onsen),6.9,1358.0,2218.0,北投區
+125,丹迪旅店 - 天母店 (Dandy Hotel - Tianmu Branch),8.9,2927.0,1917.0,士林區
+126,台北老爺大酒店 (Hotel Royal Nikko Taipei),8.8,2371.0,3571.0,中山區
+127,和逸飯店‧台北忠孝館 (Hotel Cozzi Zhongxiao Taipei),8.7,1388.0,3929.0,中正區
+128,丰居旅店西門館 (Via Hotel Ximen),8.8,5762.0,2651.0,萬華區
+129,玫瑰精品旅館新生館 (Rose Boutique Hotel Taipei City  Center),8.5,599.0,2576.0,大安區
+130,茄子青旅 (Hostel Jiizu),8.4,4490.0,1095.0,松山區
+131,台北怡亨酒店 (Hotel Eclat Taipei),8.6,1484.0,4626.0,大安區
+132,文舺行旅 (Monka Hotel),8.7,778.0,1599.0,萬華區
+133,台北中山雅樂軒酒店 (Aloft Taipei Zhongshan),8.4,246.0,4500.0,中山區
+134,西悠飯店 (C U Hotel),8.5,4137.0,758.0,大同區
+135,西門大飯店 - A館 (Ximen Hotel - A),8.0,2638.0,1240.0,萬華區
+136,神旺商務酒店 (San Want Residences Taipei),9.0,1960.0,4315.0,中山區
+137,Triple Tiger Hostel,8.5,1163.0,,萬華區
+138,台北北門窩泊旅 (Beimen Wow Poshtel),8.5,4214.0,606.0,中正區
+139,美亞商旅 (Mayer Inn),8.4,2685.0,1461.0,中正區
+140,一加一旅館 (One Plus One Hotel),7.7,2849.0,676.0,萬華區
+141,綠峯渡假山莊 (Greenpeak Holiday Villa),7.4,278.0,2301.0,金山區
+142,尤利西斯旅店 (Ulysses Hotel),8.7,1134.0,1429.0,中正區
+143,新驛旅店台北車站二館 (CityInn Hotel Taipei Station Branch II),8.7,3089.0,1335.0,中正區
+144,永安棧 (WESTGATE Hotel),8.6,6529.0,3178.0,萬華區
+145,北投熱海溫泉大飯店 (Atami Hotel Taipei Onsen),6.9,1358.0,2218.0,北投區
+146,天津大飯店 (Tien Chin Hotel),7.6,165.0,863.0,中山區
+147,丹迪旅店 - 天母店 (Dandy Hotel - Tianmu Branch),8.9,2927.0,1917.0,士林區
+148,和逸飯店‧台北忠孝館 (Hotel Cozzi Zhongxiao Taipei),8.7,1388.0,3929.0,中正區
+149,大板根森林溫泉酒店 (Great Roots Forestry Spa Resort),8.3,1657.0,7991.0,三峽區
+150,闊飯店- 台北 (Hotel Quote Taipei),8.7,1804.0,3525.0,松山區
+151,意芙旅店 (If Inn),8.4,632.0,1514.0,大同區
+152,玫瑰精品旅館新生館 (Rose Boutique Hotel Taipei City  Center),8.5,599.0,2576.0,大安區
+153,旅樂序精品旅館站前五館 (Hotel Relax V),8.6,2841.0,1289.0,中正區
+154,茄子青旅 (Hostel Jiizu),8.4,4490.0,1095.0,松山區
+155,台北怡亨酒店 (Hotel Eclat Taipei),8.6,1484.0,4626.0,大安區
+156,文舺行旅 (Monka Hotel),8.7,778.0,1599.0,萬華區
+157,大來飯店 (Delight Hotel),8.1,1462.0,1636.0,松山區
+158,囍閱文旅 (Hotel Attic),8.8,636.0,1331.0,萬華區
+159,慕居行旅 (Members Hotel at Taipei 101),8.7,1569.0,1340.0,信義區
+160,台北中山雅樂軒酒店 (Aloft Taipei Zhongshan),8.4,246.0,4500.0,中山區
+161,囍門旅店 (DB Apartment),8.0,621.0,1796.0,萬華區
+162,西悠飯店 (C U Hotel),8.5,4137.0,758.0,大同區
+163,西門大飯店 - A館 (Ximen Hotel - A),8.0,2638.0,1240.0,萬華區
+164,甲山林湯旅 (JSL HOTEL),8.4,495.0,1969.0,中山區
+165,豪景大酒店 (Hotel Riverview),7.3,3411.0,1818.0,萬華區
+166,詩漫精品旅館 - 站前館 (Smile Inn - Taipei Main Station),8.2,5506.0,1721.0,中正區
+167,力麗哲園 - 台北 (Lealea Garden Hotels - Taipei),7.9,1311.0,1861.0,松山區
+168,瑪奇文旅 (Macchi Hotel),8.4,1381.0,1454.0,文山區
+169,好得文旅 (chill roof),9.0,876.0,2748.0,中山區
+170,台北國際飯店 (Taipei International Hotel),7.6,404.0,3394.0,中山區
+171,金帥飯店 (Kingshi Hotel),7.1,3493.0,942.0,萬華區
+172,富裕自由旅店 - 林森館 (RF Hotel - Lin Sen),8.0,1766.0,2056.0,中山區
+173,灝美旅舍忠孝敦化店 (Homy Inn Zhongxiao Dunhua),8.2,1986.0,1643.0,大安區
+174,台灣青旅膠囊旅店 (Taiwan Youth Hostel & Capsule Hotel),9.2,2873.0,1361.0,中正區
+175,碩美精品旅店 (Beauty Hotels Taipei- Hotel Bstay),8.4,1006.0,1747.0,中山區
+176,淡水海灣驛站 (Bayview Tamsui Hotel),8.3,879.0,3101.0,淡水區
+177,五月家台大館 (May Rooms Taipei NTU),8.3,1715.0,1351.0,文山區
+178,悠趣旅店 (URTRIP Hotel),8.5,3022.0,2256.0,松山區
+179,台北綠蒂飯店 (Taipei Lotty Hotel),8.0,1651.0,1728.0,中山區
+180,台北喜來登大飯店 (Sheraton Grand Taipei Hotel),8.4,993.0,7014.0,中正區
+181,谷墨商旅 (Goodmore Hotel),8.2,5353.0,2784.0,大安區
+182,"福容大飯店台北一館 (Fullon Hotel Taipei, Central)",8.0,1145.0,7604.0,大安區
+183,馥華大觀商務旅館 (Hotel Purity),7.7,1054.0,1692.0,新莊區
+184,台北香城大飯店 (Charming City Hotel Taipei),7.8,939.0,1923.0,大安區
+185,日光拾玖 (Sky19 Hotel),8.8,1115.0,2301.0,中正區
+186,茄子青旅 (Hostel Jiizu),8.4,4490.0,1095.0,松山區
+187,藝宿商旅台北寧夏館 (YI SU HOTEL – TAIPEI NINGXIA),8.0,2216.0,1504.0,中正區
+188,慕軒飯店 (Madison Taipei Hotel),8.8,1184.0,5857.0,大安區
+189,華泰瑞舍 (Gloria Residence),8.8,521.0,4072.0,中山區
+190,文舺行旅 (Monka Hotel),8.7,778.0,1599.0,萬華區
+191,大來飯店 (Delight Hotel),8.1,1462.0,1636.0,松山區
+192,囍閱文旅 (Hotel Attic),8.8,636.0,1331.0,萬華區
+193,雅歌會館 (YA-GO RIVER LODGE),7.8,486.0,1741.0,淡水區
+194,叙美精品旅店 (Beauty Hotels Taipei- Hotel B7),8.1,2048.0,1363.0,中正區
+195,福爾摩莎101青年旅館 (Formosa 101 Hostel),8.5,2314.0,1084.0,信義區
+196,大稻埕花園旅店 (DG Hotel),8.6,512.0,3079.0,大同區
+197,囍門旅店 (DB Apartment),8.0,621.0,1796.0,萬華區
+198,西門航棧商旅 (Ximen Airline Hotel),8.5,1582.0,2398.0,萬華區
+199,正點商務旅店 (Cheng Dian Hotel),7.7,992.0,1633.0,板橋區
+200,甲山林湯旅 (JSL HOTEL),8.4,495.0,1969.0,中山區
+201,豪景大酒店 (Hotel Riverview),7.3,3411.0,1818.0,萬華區
+202,宜家商旅 (La Maison Hotel),8.4,2824.0,1925.0,內湖區
+203,華泰王子大飯店 (Gloria Prince),7.8,1171.0,2933.0,中山區
+204,力麗哲園 - 台北 (Lealea Garden Hotels - Taipei),7.9,1311.0,1861.0,松山區
+205,好得文旅 (chill roof),9.0,876.0,2748.0,中山區
+206,台北士林萬麗酒店 (Renaissance Taipei Shihlin Hotel),8.7,334.0,6000.0,士林區
+207,泉都溫泉會館 (Chyuan Du Spring Resort),8.0,4886.0,2045.0,北投區
+208,台北國際飯店 (Taipei International Hotel),7.6,404.0,3394.0,中山區
+209,金帥飯店 (Kingshi Hotel),7.1,3493.0,942.0,萬華區
+210,玫瑰精品旅館雙城館 (Rose Boutique Hotel shuangcheng Hall),8.5,910.0,2403.0,中山區
+211,台北叙美行旅 - Hotel B7 Journey (Beauty Hotels Taipei - Hotel B7 Journey),8.1,2513.0,1391.0,中正區
+212,樂居·微風 (Hotel le Home),8.9,1081.0,2301.0,中山區
+213,富裕自由旅店 - 林森館 (RF Hotel - Lin Sen),8.0,1766.0,2056.0,中山區
+214,北投老爺酒店 (Hotel Royal Beitou),8.9,2166.0,8001.0,北投區
+215,原宿時空膠囊旅館 (UZ hostel),8.6,2088.0,523.0,板橋區
+216,和逸飯店‧台北民生館 (Hotel Cozzi Minsheng Taipei),8.5,1364.0,4114.0,中山區
+217,yummy,4.5,8.0,2177.0,萬華區
+218,台灣青旅膠囊旅店 (Taiwan Youth Hostel & Capsule Hotel),9.2,2873.0,1361.0,中正區
+219,碩美精品旅店 (Beauty Hotels Taipei- Hotel Bstay),8.4,1006.0,1747.0,中山區
+220,淡水海灣驛站 (Bayview Tamsui Hotel),8.3,879.0,3101.0,淡水區
+221,泊客青旅 (PARK HOSTEL),7.4,624.0,642.0,中正區
+222,北投水美溫泉會館 (Beitou Sweetme Hotspring Resort),7.9,5341.0,5271.0,北投區
+223,台北綠蒂飯店 (Taipei Lotty Hotel),8.0,1651.0,1728.0,中山區
+224,柯達大飯店台北一店 (K Hotel Taipei),8.4,829.0,4793.0,中山區
+225,上樺旅棧 (Good Life Hotel - Shang Hwa),8.3,525.0,2174.0,中山區
+226,台北喜來登大飯店 (Sheraton Grand Taipei Hotel),8.4,993.0,7014.0,中正區
+227,燦路都飯店 (Hotel Sunroute Taipei),8.1,1486.0,1823.0,中山區
+228,甲山林湯旅 (JSL HOTEL),8.4,495.0,1969.0,中山區
+229,維多麗亞酒店 (Grand Victoria Hotel),8.4,670.0,8327.0,中山區
+230,華泰王子大飯店 (Gloria Prince),7.8,1171.0,2933.0,中山區
+231,歐遊國際連鎖精品旅館 - 新莊館 (ALL-UR Chain Boutique Motel),8.2,1436.0,2609.0,新莊區
+232,友統大飯店 (Yotong Hotel),8.0,664.0,1365.0,大安區
+233,九份風箏博物館民宿 (CF Kite Homestay),7.4,166.0,2456.0,瑞芳區
+234,旅晨行旅 (Re-Change Hotel),8.1,2279.0,1250.0,中正區
+235,台北士林萬麗酒店 (Renaissance Taipei Shihlin Hotel),8.7,334.0,6000.0,士林區
+236,台北國際飯店 (Taipei International Hotel),7.6,404.0,3394.0,中山區
+237,峻美精品商旅 (Beauty Hotels Taipei - Hotel Bnight),7.8,662.0,1128.0,中山區
+238,YMCA台北青年國際旅館 (Y Hotel),8.2,3053.0,1855.0,中正區
+239,金帥飯店 (Kingshi Hotel),7.1,3493.0,942.0,萬華區
+240,玫瑰精品旅館雙城館 (Rose Boutique Hotel shuangcheng Hall),8.5,910.0,2403.0,中山區
+241,愛行旅 (Hotel I Journey),8.5,1367.0,1573.0,中山區
+242,新尚旅店 (Hotel 73),8.6,2908.0,1112.0,中正區
+243,樂居·微風 (Hotel le Home),8.9,1081.0,2301.0,中山區
+244,台北旅坊 (Bon Hotel Taipei),8.4,188.0,1894.0,中山區
+245,台北北城大飯店 (City Hotel Taipei),7.7,361.0,1316.0,中山區
+246,富裕自由旅店 - 林森館 (RF Hotel - Lin Sen),8.0,1766.0,2056.0,中山區
+247,北投輕行旅 (Hotel Leisure Taipei),8.4,3678.0,1867.0,北投區
+248,原宿時空膠囊旅館 (UZ hostel),8.6,2088.0,523.0,板橋區
+249,和逸飯店‧台北民生館 (Hotel Cozzi Minsheng Taipei),8.5,1364.0,4114.0,中山區
+250,城市商旅 - 北門館 (City Suites - Beimen),8.4,2253.0,1440.0,大同區
+251,這裡那裡青年旅店站前館 (Here There Hostel Taipei),7.7,4062.0,828.0,中正區
+252,麗敦精緻旅店 (Reedon Boutique Hotel),8.2,462.0,1869.0,士林區
+253,yummy,4.5,8.0,2177.0,萬華區
+254,密都飯店 (Meadow Hotel Taipei),7.4,1005.0,1097.0,中山區
+255,碩美精品旅店 (Beauty Hotels Taipei- Hotel Bstay),8.4,1006.0,1747.0,中山區
+256,淡水海灣驛站 (Bayview Tamsui Hotel),8.3,879.0,3101.0,淡水區
+257,華夏香格里拉汽車旅館 (SL Motel),7.2,465.0,1226.0,中和區
+258,泊客青旅 (PARK HOSTEL),7.4,624.0,642.0,中正區
+259,賦樂旅居 (Hotel Proverbs Taipei),9.0,413.0,6630.0,大安區
+260,北投水美溫泉會館 (Beitou Sweetme Hotspring Resort),7.9,5341.0,5271.0,北投區
+261,立建旅館 (Hotel Lee Chan),7.1,784.0,904.0,松山區
+262,野趣旅舍 (T.O. Hotel),8.3,720.0,1106.0,大同區
+263,柯達大飯店台北一店 (K Hotel Taipei),8.4,829.0,4793.0,中山區
+264,上樺旅棧 (Good Life Hotel - Shang Hwa),8.3,525.0,2174.0,中山區
+265,台北喜來登大飯店 (Sheraton Grand Taipei Hotel),8.4,993.0,7014.0,中正區
+266,"豪爵大飯店台北館 (The Metro Hotel, Taipei)",7.7,526.0,1404.0,中山區
+267,台北文華東方酒店 (Mandarin Oriental Taipei),9.2,549.0,10571.0,松山區
+268,台北漫步 - 西門館 (Meander Taipei Hostel - Ximending),8.8,3338.0,1564.0,萬華區
+269,101艾美琪旅店六星級背包客 (Amici Hotel Six Star Hostel),8.3,3830.0,2377.0,大安區
+270,玫瑰精品旅館雙城館 (Rose Boutique Hotel shuangcheng Hall),8.5,910.0,2403.0,中山區
+271,樂居·微風 (Hotel le Home),8.9,1081.0,2301.0,中山區
+272,台北旅坊 (Bon Hotel Taipei),8.4,188.0,1894.0,中山區
+273,台北亞太H帝國 (Taipei AP H Imperial),8.5,3939.0,1067.0,中正區
+274,台北北城大飯店 (City Hotel Taipei),7.7,361.0,1316.0,中山區
+275,原宿時空膠囊旅館 (UZ hostel),8.6,2088.0,523.0,板橋區
+276,這裡那裡青年旅店站前館 (Here There Hostel Taipei),7.7,4062.0,828.0,中正區
+277,麗敦精緻旅店 (Reedon Boutique Hotel),8.2,462.0,1869.0,士林區
+278,密都飯店 (Meadow Hotel Taipei),7.4,1005.0,1097.0,中山區
+279,191旅店- 寧夏分館 (191 Hotel - Ninxia),8.5,1381.0,912.0,大同區
+280,九份聽山 (Jiufen Mountains Echoed B&B),7.8,1930.0,1129.0,瑞芳區
+281,凡登台北商務旅店 (Vendome Hotel),7.6,5945.0,1566.0,大安區
+282,台北海灣假日酒店 (HiONE Holiday Hotel Taipei),7.6,136.0,2945.0,深坑區
+283,東驛商務旅館 (E-House Hotel),7.8,2733.0,991.0,萬華區
+284,Amy台北台大公館國際酒店式公寓 (Amy House NTU Taipei Gongguan Loft),8.9,148.0,1952.0,中正區
+285,泊客青旅 (PARK HOSTEL),7.4,624.0,642.0,中正區
+286,美麗殿精品旅館 - 中和館 (Merryday Motel Zhonghe Branch),8.3,818.0,2342.0,中和區
+287,賦樂旅居 (Hotel Proverbs Taipei),9.0,413.0,6630.0,大安區
+288,立建旅館 (Hotel Lee Chan),7.1,784.0,904.0,松山區
+289,麗都飯店 (Rido Hotel),8.5,1648.0,1871.0,大安區
+290,臺北天禾旅店 (Taipei Timho Hotel),7.9,6279.0,925.0,萬華區
+291,玫瑰精品旅館林森館 (Rose Boutique Hotel),8.1,541.0,2085.0,中山區
+292,新驛旅店台北車站一館  (CityInn Hotel Taipei Station Branch I),8.6,2166.0,1535.0,中正區
+293,幸福棧 (Lucky House),7.6,11.0,2320.0,瑞芳區
+294,平溪十分旅人民宿 (Traveler's Lodge),8.5,86.0,1577.0,平溪區
+295,野趣旅舍 (T.O. Hotel),8.3,720.0,1106.0,大同區
+296,上樺旅棧 (Good Life Hotel - Shang Hwa),8.3,525.0,2174.0,中山區
+297,柯達大飯店台北一店 (K Hotel Taipei),8.4,829.0,4793.0,中山區
+298,瘋台北青旅 (Fun Inn Taipei),8.0,1070.0,747.0,萬華區
+299,台北西門町意舍 (Amba Taipei Ximending),8.5,4698.0,3997.0,萬華區
+300,"豪爵大飯店台北館 (The Metro Hotel, Taipei)",7.7,526.0,1404.0,中山區
+301,富粧商務旅店 (Fu Chang Hotel),7.5,808.0,983.0,萬華區
+302,幸福蘋果旅店 (Lucky Apple Hotel),8.5,451.0,2061.0,萬華區
+303,York Hotel ,8.1,4633.0,1466.0,中正區
+304,台北文華東方酒店 (Mandarin Oriental Taipei),9.2,549.0,10571.0,松山區
+305,士林公寓 (Shihlin Service Apartment),7.7,1479.0,1440.0,士林區
+306,沃客商旅-新舍館 (Walker Hotel - Xinshe),7.7,198.0,1672.0,三重區
+307,龍山商旅 (Long Shan Hotel),8.1,749.0,1076.0,萬華區
+308,台北漫步 - 西門館 (Meander Taipei Hostel - Ximending),8.8,3338.0,1539.0,萬華區
+309,卡夫人背包客棧 台北車站青年館 (Cavemen Hostel Taipei Station Youth Branch),8.6,2099.0,878.0,中正區
+310,旅行邦尼青年旅店 (tourist Bunny Hostel),8.7,616.0,1367.0,淡水區
+311,橙舍青旅 - 台北一館 (TW-Taipei City Hostel),7.7,1292.0,1265.0,萬華區
+312,東驛商旅西寧館 (E-House),8.2,1768.0,3853.0,萬華區
+313,平溪十分旅人民宿 (Traveler's Lodge),8.5,86.0,1577.0,平溪區
+314,幸福棧 (Lucky House),7.6,11.0,2320.0,瑞芳區
+315,野趣旅舍 (T.O. Hotel),8.3,720.0,1106.0,大同區
+316,儷客旅店 - 西門町館 (Click Hotel - Ximending Branch),8.5,971.0,1689.0,萬華區
+317,泊居旅店 (Ours Inn),8.1,1814.0,1342.0,中山區
+318,千嘉旅店 (Qian Jia Hotel),5.4,45.0,929.0,板橋區
+319,瘋台北青旅 (Fun Inn Taipei),8.0,1070.0,747.0,萬華區
+320,Jimmy's House,7.6,336.0,1171.0,中山區
+321,雅都旅社   (Ya Dou Hotel),6.1,242.0,1133.0,板橋區
+322,"豪爵大飯店台北館 (The Metro Hotel, Taipei)",7.7,526.0,1404.0,中山區
+323,東門3號膠囊旅店 (DONGMEN 3 Hostel),9.1,2729.0,831.0,大安區
+324,富粧商務旅店 (Fu Chang Hotel),7.5,808.0,983.0,萬華區
+325,The Corner House (The Corner  House),8.9,406.0,,大安區
+326,T.O.Hotel-北車館 (T.O.Hotel-Main Station),9.1,563.0,1162.0,中正區
+327,雪瓈花園汽車旅館  (Sydney Motel),7.7,54.0,1368.0,土城區
+328,台北伸適商旅 (Hotel Sense),8.2,684.0,2073.0,中山區
+329,幸福蘋果旅店 (Lucky Apple Hotel),8.5,451.0,2061.0,萬華區
+330,York Hotel ,8.1,4633.0,1466.0,中正區
+331,未央居景觀民宿 (Way Young House),8.6,482.0,2154.0,瑞芳區
+332,林森Loft (Linsen Loft),7.6,670.0,1122.0,中山區
+333,中山19行旅 (Zhongshan 19),7.5,1352.0,1085.0,中山區
+334,華達大飯店 (New May Flower Hotel),7.1,638.0,,中正區
+335,太平洋商旅 (Pacific Business Hotel),8.3,3303.0,2500.0,信義區
+336,台北文華東方酒店 (Mandarin Oriental Taipei),9.2,549.0,10571.0,松山區
+337,士林公寓 (Shihlin Service Apartment),7.7,1479.0,1440.0,士林區
+338,沃客商旅-新舍館 (Walker Hotel - Xinshe),7.7,198.0,1672.0,三重區
+339,龍山商旅 (Long Shan Hotel),8.1,749.0,1076.0,萬華區
+340,悅榕汽車旅館 (Love Tree Motel),7.6,27.0,1529.0,板橋區
+341,三和旅舍  (Sun Ho Inn),7.7,195.0,909.0,三重區
+342,凡登 東棧商務旅店 (Vendome East Inn),7.9,2534.0,1586.0,大安區
+343,橙舍青旅 - 台北二館 (TW-Taipei Backpackers Hostel),8.0,357.0,1253.0,萬華區
+344,宰相民宿  (ZaiXiang),7.8,237.0,1336.0,淡水區
+345,富裕自由旅店 - 三重正義館 (RF Hotel - San Chong),7.6,627.0,998.0,三重區
+346,愛莉亞汽車旅館 (Alia Motel),7.0,334.0,1732.0,三峽區
+347,冠君大飯店 (Champion Hotel),7.4,54.0,,板橋區
+348,卡夫人背包客棧 台北車站青年館 (Cavemen Hostel Taipei Station Youth Branch),8.6,2099.0,878.0,中正區
+349,旅行邦尼青年旅店 (tourist Bunny Hostel),8.7,616.0,1367.0,淡水區
+350,橙舍青旅 - 台北一館 (TW-Taipei City Hostel),7.7,1292.0,1265.0,萬華區
+351,東驛商旅西寧館 (E-House),8.2,1768.0,3853.0,萬華區
+352,九窩 - 九份膠囊旅店 (Box Inn Jiufen),9.1,705.0,1236.0,瑞芳區
+353,棧留台北 (Taipei Taipei Hostel),8.2,1881.0,1288.0,中正區
+354,迪化街棧 (Di Hua Jie Stay),8.2,504.0,8383.0,大同區
+355,Wulai Spring Resort,,,,烏來區
+356,旅行邦尼青年旅店 (tourist Bunny Hostel),8.7,616.0,1367.0,淡水區
+357,橙舍青旅 - 台北一館 (TW-Taipei City Hostel),7.7,1292.0,1265.0,萬華區
+358,富裕自由旅店 - 三重正義館 (RF Hotel - San Chong),7.6,627.0,998.0,三重區
+359,九窩 - 九份膠囊旅店 (Box Inn Jiufen),9.1,705.0,1236.0,瑞芳區
+360,迪化街棧 (Di Hua Jie Stay),8.2,504.0,8383.0,大同區
+361,THE Tango Hotel Taipei Shilin,9.0,82.0,2500.0,士林區
+362,仙渡莊旅社 (XDZ Hotel),,,1135.0,北投區
